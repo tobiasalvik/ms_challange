@@ -1,0 +1,8 @@
+// 1: En funksjon som returnerer antall forekomster av tallet 5 i denne arrayen [1, 4, 5, 5, 7, 8, 6, 5, 1, 5, 7, 9, 5]
+2: Print ut bilde til en nettside
+3: Printe ut 5 tilfeldige navn fra en array av 10 navn
+4: Print ut 4 bokser med forskjellige farger hvor hver boks er plassert i hvert sitt hjørne på skjermen
+5: En funksjon som sjekker om en person kan gå på «date» med en som er yngre enn seg selv,
+returner true/false.
+Vi bruker følgende formel til å finne minimumsalderen på personer du kan gå på «date» med.
+( dinAlder / 2 + 7 )
