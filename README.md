@@ -1,7 +1,6 @@
 # Microsoft Student Hackathon @ HIOF
 
-## Quick and dirty solution for Hackathon code challange.
-5 challanges. Solved with HTML, CSS, JQuery.
+## Quick and dirty solution for Hackathon code challange. 5 challanges. Solved with HTML, CSS, JQuery.
 
 
 1. Function that return the number of occurrences of the number 5 in a given array
